@@ -1,0 +1,51 @@
+.texto_biblico{
+  color: #8e7151 !important;
+  font-size: 15px;
+}
+
+.portada-picture{
+  background-image: url('./img/casal.jpg') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  background-position: center center;
+
+  
+}
+
+section.cuenta-regresiva .reloj-col span.number{
+  font-size: 25px;
+}
+
+
+#googleMap{
+  display: none !important;
+
+}
+
+
+
+.mapa_iframe iframe{
+  width: 100%;
+
+}
+
+.col-md-6.col-ceremonia{
+
+flex: none;
+max-width: 100%;
+
+}
+
+
+.anim-anillos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+.formAsistencia{
+  color: red !important;
+  padding-top: 0px;
+}
